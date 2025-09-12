@@ -1,0 +1,10 @@
+langchain
+langchain-community
+pypdf
+pymupdf
+langchain-core
+langchain-openai
+faiss-cpu
+chromadb
+sentence-transformers
+tiktoken
